@@ -1,0 +1,48 @@
+.Registration {
+    width: 270px;
+    background-color: lightblue;
+    border: black solid;
+    margin-top: 30px;
+      
+    left: 90px;
+    position: fixed;
+}
+.Email{
+    margin-top: 30px;
+        margin-bottom: 30px;
+        margin-right: 30px;
+        margin-left: 30px;
+}
+.CEmail {
+    margin-top: 30px;
+        margin-bottom: 30px;
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+.Pass {
+    margin-top: 30px;
+        margin-bottom: 30px;
+        margin-right: 30px;
+        margin-left: 30px;
+    
+}
+.CPass
+{margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.RegBttn
+{
+    margin-top: 30px;
+        margin-bottom: 30px;
+        margin-right: 30px;
+        margin-left: 30px;
+}
+
+table,
+td,
+tr {
+    border-right: 1px solid black;
+    width: 100%;
+}   
